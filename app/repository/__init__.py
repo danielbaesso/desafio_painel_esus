@@ -1,0 +1,1 @@
+from .atendimentos_repository import AtendimentosRepository
